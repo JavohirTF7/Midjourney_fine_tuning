@@ -13,7 +13,8 @@ or click on the image below
 
 
 [![ChatGPT3
-](--)](--)
+](![image](https://github.com/JavohirTF7/Midjourney_fine_tuning/assets/101963806/37c5e162-f031-4587-bd0d-9e5d301a32a5)
+)](https://youtu.be/fW1EL39OXUs)
 
 
 
