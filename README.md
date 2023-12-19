@@ -2,8 +2,7 @@
 
 
 ## Click to open the Notebook directly in Google Colab
-<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhattbhavesh91/diffusion-chatgpt/blob/main/stable-diffusion-with-chatgpt-noteook.ipynb)
- -->
+
  
 
  
