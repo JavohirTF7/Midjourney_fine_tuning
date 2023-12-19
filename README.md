@@ -13,7 +13,7 @@ or click on the image below
 
 
 [![ChatGPT3
-](http://img.youtube.com/vi/Ed9xyAoah_s/0.jpg)](http://www.youtube.com/watch?v=Ed9xyAoah_s)
+](--)](--)
 
 
 
