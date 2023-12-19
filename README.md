@@ -12,8 +12,8 @@
 or click on the image below
 
 
-[![ChatGPT3
-](![image](https://github.com/JavohirTF7/Midjourney_fine_tuning/assets/101963806/37c5e162-f031-4587-bd0d-9e5d301a32a5)
+[!YouTube
+](https://img-c.udemycdn.com/course/750x422/5239842_57d2_3.jpg)
 )](https://youtu.be/fW1EL39OXUs)
 
 
@@ -28,6 +28,3 @@ or click on the image below
   
 
 
-## Disclaimer
-
-This project is not affiliated with OpenAI in any way. Use at your own risk. I am not responsible for any damage caused by this project. Please read the [OpenAI Terms of Service](https://beta.openai.com/terms) before using this project.
