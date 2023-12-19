@@ -14,6 +14,8 @@ or click on the image below
 
 [!YouTube](https://img-c.udemycdn.com/course/750x422/5239842_57d2_3.jpg)](https://youtu.be/fW1EL39OXUs)
 
+[![ChatGPT3
+](https://img-c.udemycdn.com/course/750x422/5239842_57d2_3.jpg)](http://www.youtube.com/watch?v=Ed9xyAoah_s)
 
 
 
